@@ -1,0 +1,22 @@
+.container {
+  margin-bottom: 45px;
+}
+
+.item {
+  height: 250px;
+  width: 250px;
+}
+.item:nth-child(1) {
+  background-color: crimson;
+  color: white;
+}
+.item:nth-child(2) {
+  background-color: teal;
+  color: white;
+}
+.item:nth-child(3) {
+  background-color: tomato;
+  color: white;
+}
+
+/*# sourceMappingURL=estilo.css.map */
